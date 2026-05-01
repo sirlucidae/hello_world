@@ -8,4 +8,4 @@
                 ||----w |
                 ||     ||
 ```
-A simple test script written in python and bash.
+A learning exercise script written in multiple programming languages.

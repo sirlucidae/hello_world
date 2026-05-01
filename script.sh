@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-NAME="World"
-echo "Hello, $NAME!"
+# print the following text
+echo "Hello, World!"
